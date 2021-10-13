@@ -1,2 +1,2 @@
-# dotnet6-minimal-api-todo
-A minimal API in .NET 6 (Preview). Used as an example a TODO application with SQLite.
+# .NET 6 Minimal API ToDo
+A minimal API in .NET 6 (Preview). Used as an example a ToDo application with SQLite.
